@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-12-12 14:47:34.920233-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-12-12 14:47:34.920224-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "5b6fdca6-a515-41b4-b191-916d1b54f9e6"
+Name = "square-light-blue-80x80"
+SourceUri = "square-light-blue-80x80.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

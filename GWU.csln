@@ -1,0 +1,19 @@
+{
+  "_fileMetadata": {
+    "_schema": "1.0.0.0",
+    "_createdByAppHost": "1.2801.21.0",
+    "_created": "2023-10-18T10:34:42.8952616-04:00",
+    "_lastModifiedByAppHost": "1.2801.21.0",
+    "_modified": "2023-10-18T10:34:42.8952442-04:00"
+  },
+  "_solution": {
+    "_name": "GWU",
+    "_projects": [
+      {
+        "_name": "Thurston_Hall_Penthouse",
+        "_filename": "Thurston_Hall_Penthouse/Thurston_Hall_Penthouse.cuip",
+        "_datetime": "2023-10-18T14:34:42.8742973Z"
+      }
+    ]
+  }
+}

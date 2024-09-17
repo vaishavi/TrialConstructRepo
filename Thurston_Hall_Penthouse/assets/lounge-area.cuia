@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-11-14 11:05:53.582433-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-11-14 11:05:53.582405-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "30b7cd14-de12-4634-a14e-6f873993a388"
+Name = "lounge-area"
+SourceUri = "lounge-area.png"
+AspectRatio = "0.9402985074626866"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

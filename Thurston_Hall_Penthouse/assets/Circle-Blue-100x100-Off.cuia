@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2801.21.0"
+Created = 2023-10-24 13:49:34.744819-04:00
+LastModifiedByAppHost = "1.2801.21.0"
+Modified = 2023-10-24 13:49:34.744812-04:00
+CreatedByProjectApp = "1.2801.21.0"
+LastModifiedByProjectApp = "1.2801.21.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "e33dac53-8ea9-4763-bb58-6722bf24ed43"
+Name = "Circle-Blue-100x100-Off"
+SourceUri = "Circle-Blue-100x100-Off.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

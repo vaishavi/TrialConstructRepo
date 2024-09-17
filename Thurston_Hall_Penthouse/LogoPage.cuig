@@ -1,0 +1,214 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3201.17.0"
+Created = 2024-04-11 13:08:48.005189-04:00
+LastModifiedByAppHost = "1.3201.17.0"
+Modified = 2024-04-11 13:08:48.005184-04:00
+CreatedByProjectApp = "1.3201.17.0"
+LastModifiedByProjectApp = "1.3201.17.0"
+MinimumProjectApp = "1.2600.1"
+
+{Html}
+<ch5-text clearlabel="false" labelmodeadvncomponent="advanced" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="<p style=&quot;margin-block-start: 0em!important;text-align: center;&quot;><span style=&quot;color: rgb(200, 177, 139);&quot;>Touch Screen to Start</span></p><p style=&quot;margin-block-start: 0em!important;text-align: center;&quot;><span style=&quot;color: rgb(200, 177, 139);&quot;>Dial '0' on the podium phone for support</span></p>" id="ijkjo" componentname="Formatted-Text_1" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-770&quot;]" ccid_themecssset="true">
+              </ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="advanced" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="<p style=&quot;text-align: center;&quot;><span style=&quot;color: rgb(200, 177, 139);&quot;>Room Name</span></p>" id="iyyjr" componentname="Formatted-Text" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-770&quot;]" ccid_themecssset="true">
+              </ch5-text><ch5-datetime timeoffsethours="0" horizontalalignment="center" displaytype="time" display24hourformat="false" displayampm="true" displaytwodigitshour="false" displayseconds="false" stylefordate="MM-dd-yyyy" id="if8o6" componentname="Date Time" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-770&quot;]" ccid_themecssset="true">
+              </ch5-datetime><ch5-image refreshrate="0" assetid="28ba6349-3bb9-4781-8d59-a5b594be32c4" id="ire2" componentname="Ch5 Image 1" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-770&quot;]" customvstheme="custom">
+              </ch5-image><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="true" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="center" affectedbypreviewstate="True" shape="rounded-rectangle" pageflip="0" size="custom" iconposition="first" previewstate="selected" orientation="horizontal" labelmode="simple" id="ibkh" componentname="Ch5 Button 1" ccid_themecssset="true" devicesvisited="[&quot;TSW-770&quot;]" selected="true" assetid="60bd81e3-b91c-4e38-a27e-59f50f13a1af" labelinnerhtml="" customvstheme="custom">
+              </ch5-button><div componentname="Html-div 1" id="iyr1" devicesvisited="[&quot;TSW-770&quot;]"></div><ch5-background scale="stretch" refreshrate="600" transitioneffect="ease" transitionduration="1s" assetid="0" id="i8ss" componentname="Ch5 Background 1" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-770&quot;]" backgroundcolor="#1c5379" imgbackgroundcolor="transparent">
+              </ch5-background>
+
+
+
+
+
+
+
+{Css}
+@media (max-width: 99999px) { #ibkh .ch5-button--size-regular .cb-btn { width: 600px; height: 94px } #iyr1 { background-color: #ffffff; border-style: solid; border-width: 0; border-color: #ffffff; width: 1280px; height: 400px; left: 0; top: 200px; position: absolute; display: block; z-index: 51 } #ibkh .ch5-button--default .ch5-button--label { font-family: Roboto; color: #ffffff; font-size: 14px; font-weight: 400; buttonDefaultLabel_font-size: 14px; buttonDefaultLabel_color: #ffffff; buttonDefaultLabel_font-weight: 400 } #ibkh .ch5-button--default { border-style: solid; border-color: #0091ea; color: #ffffff; background-color: #0099ff; border-width: 1px } #ibkh .ch5-button-child { width: inherit; height: inherit; top: inherit; left: inherit; position: fixed } #ibkh .ch5-button--default .ch5-button--icon { color: #ffffff; font-size: 14px; custom-font-size: 14px; buttonDefaultIcon_font-size: 14px; buttonDefaultIcon_color: #ffffff } #ibkh .ch5-button--default .cb-checkbox-icon { color: #ffffff; buttonDefaultCheckbox_color: #ffffff } #ibkh .ccid-custom.ch5-button--default .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #ibkh .ch5-button--default.ch5-button--pressed { color: #f0fff0; background-color: #008ae6; border-color: #0091ea } #ibkh .ch5-button--default.ch5-button--pressed .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultPressedLabel_font-size: 14px; buttonDefaultPressedLabel_color: #f0fff0; buttonDefaultPressedLabel_font-weight: 400 } #ibkh .ch5-button--default.ch5-button--pressed .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultPressedIcon_font-size: 14px; buttonDefaultPressedIcon_color: #f0fff0 } #ibkh .ch5-button--default.ch5-button--pressed .cb-checkbox-icon { color: #f0fff0; buttonDefaultPressedCheckbox_color: #f0fff0 } #ibkh .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #ibkh .ch5-button--default.ch5-button--selected { color: #f0fff0; background-color: #1c5379; border-color: #1c5379 } #ibkh .ch5-button--default.ch5-button--selected .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultSelectedLabel_font-size: 14px; buttonDefaultSelectedLabel_color: #f0fff0; buttonDefaultSelectedLabel_font-weight: 400 } #ibkh .ch5-button--default.ch5-button--selected .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultSelectedIcon_font-size: 14px; buttonDefaultSelectedIcon_color: #f0fff0 } #ibkh .ch5-button--default.ch5-button--selected .cb-checkbox-icon { color: #f0fff0; buttonDefaultSelectedCheckbox_color: #f0fff0 } #ibkh .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #ibkh { pointer-events: all; width: 600px; height: 94px; font-family: Roboto; left: 340px; top: 13px; position: absolute; display: block; z-index: 52 } #ire2 .ch5-image { border-color: black; object-fit: contain } #ire2 { width: 512px; height: 232px; pointer-events: all; left: 384px; top: 284px; position: absolute; display: block; background: transparent; object-fit: contain; z-index: 53; border-color: undefined } #if8o6 .ch5-datetime { width: 120px; height: 50px; font-family: Roboto; background-color: transparent; font-size: 24px; custom-font-size: 24px; color: #c8b18b } #if8o6 { width: 120px; height: 50px; font-family: Roboto; left: 1160px; top: 150px; position: absolute; display: block; z-index: 54 } #iyyjr .ch5-text { width: 512px; height: 50px; font-family: Roboto; font-size: 28px; custom-font-size: 28px } #iyyjr { width: 512px; height: 50px; font-family: Roboto; left: 384px; top: 150px; position: absolute; display: block; z-index: 55 } #ijkjo .ch5-text { width: 880px; height: 150px; font-family: Roboto; font-size: 32px; custom-font-size: 32px } #ijkjo { width: 880px; height: 150px; font-family: Roboto; left: 200px; top: 600px; position: absolute; display: block; z-index: 56 } #i8ss { width: 1280px; height: 800px; z-index: -97; overflow: hidden; position: absolute; left: 0px; top: 0px; display: block } }
+
+{PageAttributes}
+
+[Attributes]
+Name = "LogoPage"
+PageMode = "absolute"
+Id = "26aafc05-a6cf-4178-a23c-99958172ad86"
+StartPage = "False"
+VisibilityJoin = "0"
+
+[[Elements]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "advanced"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "<p style=\"margin-block-start: 0em!important;text-align: center;\"><span style=\"color: rgb(200, 177, 139);\">Touch Screen to Start</span></p><p style=\"margin-block-start: 0em!important;text-align: center;\"><span style=\"color: rgb(200, 177, 139);\">Dial '0' on the podium phone for support</span></p>"
+id = "ijkjo"
+componentName = "Formatted-Text_1"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-770\"]"
+ccid_themeCSSSet = "true"
+[[Elements]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "advanced"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "<p style=\"text-align: center;\"><span style=\"color: rgb(200, 177, 139);\">Room Name</span></p>"
+id = "iyyjr"
+componentName = "Formatted-Text"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-770\"]"
+ccid_themeCSSSet = "true"
+[[Elements]]
+Name = ""
+Type = "Ch5 Date Time"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+timeoffsethours = "0"
+horizontalalignment = "center"
+displaytype = "time"
+display24hourformat = "false"
+displayampm = "true"
+displaytwodigitshour = "false"
+displayseconds = "false"
+stylefordate = "MM-dd-yyyy"
+id = "if8o6"
+componentName = "Date Time"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-770\"]"
+ccid_themeCSSSet = "true"
+[[Elements]]
+Name = ""
+Type = "Ch5 Image"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+refreshrate = "0"
+assetid = "28ba6349-3bb9-4781-8d59-a5b594be32c4"
+id = "ire2"
+componentName = "Ch5 Image 1"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-770\"]"
+customvstheme = "custom"
+[[Elements]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "true"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "center"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+pageflip = "0"
+size = "custom"
+iconposition = "first"
+previewstate = "selected"
+orientation = "horizontal"
+labelmode = "simple"
+id = "ibkh"
+componentName = "Ch5 Button 1"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-770\"]"
+selected = "true"
+assetid = "60bd81e3-b91c-4e38-a27e-59f50f13a1af"
+labelinnerhtml = ""
+customvstheme = "custom"
+[[Elements]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+componentName = "Html-div 1"
+id = "iyr1"
+devicesVisited = "[\"TSW-770\"]"
+[[Elements]]
+Name = ""
+Type = "Ch5 Background"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+scale = "stretch"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "1s"
+assetid = "0"
+id = "i8ss"
+componentName = "Ch5 Background 1"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-770\"]"
+backgroundcolor = "#1c5379"
+imgbackgroundcolor = "transparent"
+

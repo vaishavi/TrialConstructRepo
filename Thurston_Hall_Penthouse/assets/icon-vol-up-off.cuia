@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-11-14 12:07:07.723678-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-11-14 12:07:07.723671-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "bc3d7ebc-6337-4b75-9fd9-6959f5406cd0"
+Name = "icon-vol-up-off"
+SourceUri = "icon-vol-up-off.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

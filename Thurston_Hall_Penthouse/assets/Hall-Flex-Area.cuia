@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-11-14 11:11:41.033076-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-11-14 11:11:41.033071-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "382f0aac-880f-4ac2-bf9f-1242288d70c6"
+Name = "Hall-Flex-Area"
+SourceUri = "Hall-Flex-Area.png"
+AspectRatio = "0.9402985074626866"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

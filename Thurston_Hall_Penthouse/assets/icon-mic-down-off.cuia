@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-11-14 13:26:27.952357-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-11-14 13:26:27.952349-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "0a5b3267-9066-41fb-9d8b-33a88a11d851"
+Name = "icon-mic-down-off"
+SourceUri = "icon-mic-down-off.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

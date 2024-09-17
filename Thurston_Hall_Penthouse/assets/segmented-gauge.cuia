@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-11-28 09:32:26.868954-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-11-28 09:32:26.86894-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "26b64eee-a7de-466e-a2d0-42881447b62c"
+Name = "segmented-gauge"
+SourceUri = "segmented-gauge.png"
+AspectRatio = "0.1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-11-14 12:18:25.735853-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-11-14 12:18:25.735845-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "c4d3e0e5-c666-484f-b30f-f48a448bd6e3"
+Name = "icon-vol-mute-off"
+SourceUri = "icon-vol-mute-off.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

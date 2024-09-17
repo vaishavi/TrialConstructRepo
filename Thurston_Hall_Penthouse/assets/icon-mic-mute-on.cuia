@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-11-14 13:22:15.9008-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-11-14 13:22:15.900795-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "b4517eb7-a98b-45f1-8ee4-072dfa1211f7"
+Name = "icon-mic-mute-on"
+SourceUri = "icon-mic-mute-on.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

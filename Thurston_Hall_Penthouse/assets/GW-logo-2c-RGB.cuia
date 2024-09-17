@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2801.21.0"
+Created = 2023-10-24 00:24:02.85431-04:00
+LastModifiedByAppHost = "1.2801.21.0"
+Modified = 2023-10-24 00:24:02.854303-04:00
+CreatedByProjectApp = "1.2801.21.0"
+LastModifiedByProjectApp = "1.2801.21.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "28ba6349-3bb9-4781-8d59-a5b594be32c4"
+Name = "GW-logo-2c-RGB"
+SourceUri = "GW-logo-2c-RGB.png"
+AspectRatio = "2.206896551724138"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

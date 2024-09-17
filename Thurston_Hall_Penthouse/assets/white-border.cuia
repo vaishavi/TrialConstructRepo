@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-11-27 11:51:02.739669-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-11-27 11:51:02.739636-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "add53550-88e9-4dbf-986c-c7d885fd5598"
+Name = "white-border"
+SourceUri = "white-border.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

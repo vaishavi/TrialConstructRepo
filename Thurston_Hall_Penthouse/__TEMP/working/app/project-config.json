@@ -1,0 +1,168 @@
+{
+  "projectName": "shell-template",
+  "projectType": "shell-template",
+  "forceDeviceXPanel": false,
+  "version": "0.0.1",
+  "faviconPath": "favicon.ico",
+  "menuOrientation": "none",
+  "selectedTheme": "light-theme.css",
+  "useWebXPanel": true,
+  "themes": [
+    {
+      "name": "light-theme.css",
+      "extends": "light-theme",
+      "brandLogo": {
+        "url": "./app/template/assets/img/ch5-logo-light.svg",
+        "alt": "Crestron Logo",
+        "receiveStateUrl": ""
+      },
+      "backgroundProperties": {
+        "backgroundColor": [
+          "white"
+        ]
+      }
+    },
+    {
+      "name": "dark-theme.css",
+      "extends": "dark-theme",
+      "brandLogo": {
+        "url": "../app/template/assets/img/ch5-logo-dark.svg",
+        "alt": "Crestron Logo",
+        "receiveStateUrl": ""
+      },
+      "backgroundProperties": {
+        "backgroundColor": [
+          "#4d4d4d"
+        ]
+      }
+    }
+  ],
+  "config": {
+    "controlSystem": {
+      "ipId": "0x03"
+    }
+  },
+  "customSignals": {
+    "receiveStateTheme": "templateTheme",
+    "sendEventTheme": "templateTheme"
+  },
+  "header": {
+    "display": false,
+    "displayInfo": false,
+    "displayTheme": true,
+    "$component": "",
+    "diagnostics": {
+      "logs": {
+        "logAfterProjectLoad": true,
+        "receiveStateLogDiagnostics": "",
+        "logDiagnostics": "none"
+      }
+    }
+  },
+  "footer": {
+    "display": false,
+    "$component": ""
+  },
+  "content": {
+    "$defaultView": "mainpage",
+    "triggerViewProperties": {
+      "gestureable": false,
+      "disableAnimation": true
+    },
+    "pages": [
+      {
+        "pageName": "exitsystem",
+        "fullPath": "./app/project/components/pages/exitsystem/",
+        "fileName": "exitsystem.html",
+        "standAloneView": false,
+        "cachePage": false,
+        "preloadPage": true,
+        "triggerViewChildProperties": {
+          "receiveStateShow": "0"
+        },
+        "navigation": {
+          "sequence": 3,
+          "label": "exitsystem",
+          "isI18nLabel": true,
+          "iconClass": "",
+          "iconUrl": "",
+          "iconPosition": "bottom"
+        }
+      },
+      {
+        "pageName": "mainpage",
+        "fullPath": "./app/project/components/pages/mainpage/",
+        "fileName": "mainpage.html",
+        "standAloneView": false,
+        "cachePage": false,
+        "preloadPage": true,
+        "triggerViewChildProperties": {
+          "receiveStateShow": "0"
+        },
+        "navigation": {
+          "sequence": 4,
+          "label": "mainpage",
+          "isI18nLabel": true,
+          "iconClass": "",
+          "iconUrl": "",
+          "iconPosition": "bottom"
+        }
+      },
+      {
+        "pageName": "coolingdownpage",
+        "fullPath": "./app/project/components/pages/coolingdownpage/",
+        "fileName": "coolingdownpage.html",
+        "standAloneView": false,
+        "cachePage": false,
+        "preloadPage": true,
+        "triggerViewChildProperties": {
+          "receiveStateShow": "0"
+        },
+        "navigation": {
+          "sequence": 5,
+          "label": "coolingdownpage",
+          "isI18nLabel": true,
+          "iconClass": "",
+          "iconUrl": "",
+          "iconPosition": "bottom"
+        }
+      },
+      {
+        "pageName": "logopage",
+        "fullPath": "./app/project/components/pages/logopage/",
+        "fileName": "logopage.html",
+        "standAloneView": false,
+        "cachePage": false,
+        "preloadPage": true,
+        "triggerViewChildProperties": {
+          "receiveStateShow": "0"
+        },
+        "navigation": {
+          "sequence": 6,
+          "label": "logopage",
+          "isI18nLabel": true,
+          "iconClass": "",
+          "iconUrl": "",
+          "iconPosition": "bottom"
+        }
+      }
+    ],
+    "widgets": [
+      {
+        "widgetName": "coolingdownpagewidget",
+        "fullPath": "./app/project/components/widgets/coolingdownpagewidget/",
+        "fileName": "coolingdownpagewidget.html"
+      },
+      {
+        "widgetName": "logopagewidget",
+        "fullPath": "./app/project/components/widgets/logopagewidget/",
+        "fileName": "logopagewidget.html"
+      },
+      {
+        "widgetName": "existsystemwidget",
+        "fullPath": "./app/project/components/widgets/existsystemwidget/",
+        "fileName": "existsystemwidget.html"
+      }
+    ]
+  }
+}

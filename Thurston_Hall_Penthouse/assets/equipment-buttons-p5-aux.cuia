@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-11-27 17:12:08.513252-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-11-27 17:12:08.513247-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "b13a7c31-6c41-4f81-a4f1-f531c34a3433"
+Name = "equipment-buttons-p5-aux"
+SourceUri = "equipment-buttons-p5-aux.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

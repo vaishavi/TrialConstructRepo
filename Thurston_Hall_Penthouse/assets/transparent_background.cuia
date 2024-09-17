@@ -1,0 +1,21 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3001.21.0"
+Created = 2024-01-23 16:21:20.274256-05:00
+LastModifiedByAppHost = "1.3001.21.0"
+Modified = 2024-01-23 16:21:20.27425-05:00
+CreatedByProjectApp = "1.3001.21.0"
+LastModifiedByProjectApp = "1.3001.21.0"
+MinimumProjectApp = ""
+
+{AssetAttributes}
+
+[Attributes]
+Id = "87e676da-1167-42ed-9875-489fc0f4af08"
+Name = "transparent_background"
+SourceUri = "transparent_background.png"
+AspectRatio = "1.6"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

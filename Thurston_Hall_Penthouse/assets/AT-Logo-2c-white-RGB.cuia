@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2801.21.0"
+Created = 2023-10-24 00:12:11.440943-04:00
+LastModifiedByAppHost = "1.2801.21.0"
+Modified = 2023-10-24 00:12:11.440912-04:00
+CreatedByProjectApp = "1.2801.21.0"
+LastModifiedByProjectApp = "1.2801.21.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "60bd81e3-b91c-4e38-a27e-59f50f13a1af"
+Name = "AT-Logo-2c-white-RGB"
+SourceUri = "AT-Logo-2c-white-RGB.png"
+AspectRatio = "5.160493827160494"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

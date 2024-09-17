@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-11-27 01:29:07.842184-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-11-27 01:29:07.842151-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "d878c1ba-f658-40c4-b0ea-a37a52bab912"
+Name = "white_power"
+SourceUri = "white_power.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

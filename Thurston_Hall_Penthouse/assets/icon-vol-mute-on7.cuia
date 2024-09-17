@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-11-14 12:15:06.437716-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-11-14 12:15:06.437711-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "19b09e41-7144-4a3f-8901-ca2723873ce4"
+Name = "icon-vol-mute-on7"
+SourceUri = "icon-vol-mute-on7.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

@@ -1,0 +1,185 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3201.17.0"
+Created = 2024-04-11 13:08:48.000517-04:00
+LastModifiedByAppHost = "1.3201.17.0"
+Modified = 2024-04-11 13:08:48.000513-04:00
+CreatedByProjectApp = "1.3201.17.0"
+LastModifiedByProjectApp = "1.3201.17.0"
+MinimumProjectApp = "1.2600.1"
+
+{Html}
+<ch5-background scale="stretch" refreshrate="600" transitioneffect="ease" transitionduration="1s" assetid="0" id="ihnw" componentname="Ch5 Background 1" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-770&quot;]" backgroundcolor="rgb(28,83,121)">
+              </ch5-background><div componentname="Html-div 1" id="idcj" devicesvisited="[&quot;TSW-770&quot;]"></div><div data-simulate-textcontent=" <p style=&quot;margin-block-start: 0em!important;text-align: center;&quot;><span style=&quot;color: rgb(255, 255, 255);&quot;>Please wait while the projector cools down...</span></p>" labelmodeformattedtext="advanced" componentname="Formatted-Text 1" id="iguw" devicesvisited="[&quot;TSW-770&quot;]"> <p style="margin-block-start: 0em!important;text-align: center;"><span style="color: rgb(255, 255, 255);">Please wait while the projector cools down...</span></p></div><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="true" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="center" affectedbypreviewstate="True" pageflip="0" size="regular" shape="rounded-rectangle" iconposition="first" previewstate="normal" orientation="horizontal" labelmode="simple" id="izd5" componentname="Ch5 Button 1" ccid_themecssset="true" devicesvisited="[&quot;TSW-770&quot;]" assetid="60bd81e3-b91c-4e38-a27e-59f50f13a1af" labelinnerhtml="">
+              </ch5-button><div data-simulate-textcontent="<p style=&quot;margin-block-start: 0em!important;text-align: center;&quot;><span style=&quot;color: rgb(200, 177, 139);&quot;>Room Name</span></p>" labelmodeformattedtext="advanced" componentname="Formatted-Text 2" id="iac6" devicesvisited="[&quot;TSW-770&quot;]"><p style="margin-block-start: 0em!important;text-align: center;"><span style="color: rgb(200, 177, 139);">Room Name</span></p></div><ch5-datetime timeoffsethours="0" horizontalalignment="center" displaytype="time" display24hourformat="false" displayampm="true" displaytwodigitshour="false" displayseconds="false" stylefordate="MM-dd-yyyy" id="inhx" componentname="Date Time" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-770&quot;]" ccid_themecssset="true">
+              </ch5-datetime><ch5-animation startanimating="true" size="x-large" animationstyle="ring" id="iaaea" componentname="Animation" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-770&quot;]" ccid_themecssset="true">
+              </ch5-animation>
+
+
+
+
+
+
+
+
+
+{Css}
+@media (max-width: 99999px) { #izd5 .ch5-button--size-regular .cb-btn { width: 600px; height: 94px } #ihnw { width: 100%; height: 100%; z-index: -1; overflow: hidden; position: absolute; left: 0; top: 0; display: block } #idcj { background-color: #ffffff; border-style: solid; border-width: 0; border-color: #ffffff; width: 1280px; height: 400px; left: 0px; top: 200px; position: absolute; display: block } #iguw { width: 880px; height: 75px; text-align: center; padding-top: 1rem; font-family: Roboto; font-size: 32px; overflow: hidden; text-underline-offset: 0.3em; line-height: normal; color: black; border-color: black; background-color: #00000000; left: 200px; top: 650px; position: absolute; display: block; custom-font-size: 32px } #izd5 .ch5-button--default .ch5-button--label { font-family: Roboto; color: #ffffff; font-size: 14px; font-weight: 400; buttonDefaultLabel_font-size: 14px; buttonDefaultLabel_color: #ffffff; buttonDefaultLabel_font-weight: 400 } #izd5 .ch5-button--default { border-style: solid; border-color: #1c5379; color: #ffffff; background-color: #1c5379; border-width: 0; max-height: 100%; max-width: 100%; display: flex; align-items: center } #izd5 .ch5-button-child { width: inherit; height: inherit; top: inherit; left: inherit; position: fixed } #izd5 .ch5-button--default .ch5-button--icon { color: #ffffff; font-size: 14px; custom-font-size: 14px; buttonDefaultIcon_font-size: 14px; buttonDefaultIcon_color: #ffffff } #izd5 .ch5-button--default .cb-checkbox-icon { color: #ffffff; buttonDefaultCheckbox_color: #ffffff } #izd5 .ccid-custom.ch5-button--default .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #izd5 .ch5-button--default.ch5-button--pressed { color: #f0fff0; background-color: #008ae6; border-color: #0091ea } #izd5 .ch5-button--default.ch5-button--pressed .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultPressedLabel_font-size: 14px; buttonDefaultPressedLabel_color: #f0fff0; buttonDefaultPressedLabel_font-weight: 400 } #izd5 .ch5-button--default.ch5-button--pressed .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultPressedIcon_font-size: 14px; buttonDefaultPressedIcon_color: #f0fff0 } #izd5 .ch5-button--default.ch5-button--pressed .cb-checkbox-icon { color: #f0fff0; buttonDefaultPressedCheckbox_color: #f0fff0 } #izd5 .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #izd5 .ch5-button--default.ch5-button--selected { color: #f0fff0; background-color: #0073bf; border-color: #0091ea } #izd5 .ch5-button--default.ch5-button--selected .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultSelectedLabel_font-size: 14px; buttonDefaultSelectedLabel_color: #f0fff0; buttonDefaultSelectedLabel_font-weight: 400 } #izd5 .ch5-button--default.ch5-button--selected .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultSelectedIcon_font-size: 14px; buttonDefaultSelectedIcon_color: #f0fff0 } #izd5 .ch5-button--default.ch5-button--selected .cb-checkbox-icon { color: #f0fff0; buttonDefaultSelectedCheckbox_color: #f0fff0 } #izd5 .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #izd5 .ch5-button--vertical .cx-button-checkbox-pos-left { padding-left: 0px } #izd5 .ch5-button--vertical .cx-button-checkbox-pos-right { padding-right: 0px } #izd5 { pointer-events: all; width: 600px; height: 94px; font-family: Roboto; left: 340px; top: 13px; position: absolute; display: block; border-width: 0 } #iac6 { width: 150px; height: 48px; text-align: center; padding-top: 1rem; font-family: Roboto; font-size: 24px; overflow: hidden; text-underline-offset: 0.3em; line-height: normal; color: black; border-color: black; background-color: #00000000; left: 975px; top: 50px; position: absolute; display: block; custom-font-size: 24px } #inhx .ch5-datetime { width: 100px; height: 50px; font-family: Roboto; background-color: transparent; font-size: 20px; custom-font-size: 20px; color: #c8b18b } #inhx { width: 100px; height: 50px; font-family: Roboto; left: 1175px; top: 50px; position: absolute; display: block } #iaaea .ch5-animation { animationColor_color: #3f3f3f; color: #3f3f3f } #iaaea { display: block; left: 572px; top: 330px; position: absolute; animationColor_color: #3f3f3f; width: auto; height: auto } }
+
+{PageAttributes}
+
+[Attributes]
+Name = "CoolingDownPage"
+PageMode = "absolute"
+Id = "fd379d35-088e-43f4-8bea-5882fc2f7dc1"
+StartPage = "False"
+VisibilityJoin = "0"
+
+[[Elements]]
+Name = ""
+Type = "Ch5 Background"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+scale = "stretch"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "1s"
+assetid = "0"
+id = "ihnw"
+componentName = "Ch5 Background 1"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-770\"]"
+backgroundcolor = "rgb(28,83,121)"
+[[Elements]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+componentName = "Html-div 1"
+id = "idcj"
+devicesVisited = "[\"TSW-770\"]"
+[[Elements]]
+Name = "Formatted-Text"
+Type = "Ch5FormattedText-emulator"
+Status = ""
+Content = " <p style=\"margin-block-start: 0em!important;text-align: center;\"><span style=\"color: rgb(255, 255, 255);\">Please wait while the projector cools down...</span></p>"
+
+[Elements.Attributes]
+data-simulate-textcontent = " <p style=\"margin-block-start: 0em!important;text-align: center;\"><span style=\"color: rgb(255, 255, 255);\">Please wait while the projector cools down...</span></p>"
+labelmodeformattedtext = "advanced"
+componentName = "Formatted-Text 1"
+id = "iguw"
+devicesVisited = "[\"TSW-770\"]"
+[[Elements]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "true"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "center"
+affectedByPreviewState = "True"
+pageflip = "0"
+size = "custom"
+shape = "rounded-rectangle"
+iconposition = "first"
+previewstate = "normal"
+orientation = "horizontal"
+labelmode = "simple"
+id = "izd5"
+componentName = "Ch5 Button 1"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-770\"]"
+assetid = "60bd81e3-b91c-4e38-a27e-59f50f13a1af"
+labelinnerhtml = ""
+customvstheme = "custom"
+[[Elements]]
+Name = "Formatted-Text"
+Type = "Ch5FormattedText-emulator"
+Status = ""
+Content = "<p style=\"margin-block-start: 0em!important;text-align: center;\"><span style=\"color: rgb(200, 177, 139);\">Room Name</span></p>"
+
+[Elements.Attributes]
+data-simulate-textcontent = "<p style=\"margin-block-start: 0em!important;text-align: center;\"><span style=\"color: rgb(200, 177, 139);\">Room Name</span></p>"
+labelmodeformattedtext = "advanced"
+componentName = "Formatted-Text 2"
+id = "iac6"
+devicesVisited = "[\"TSW-770\"]"
+[[Elements]]
+Name = ""
+Type = "Ch5 Date Time"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+timeoffsethours = "0"
+horizontalalignment = "center"
+displaytype = "time"
+display24hourformat = "false"
+displayampm = "true"
+displaytwodigitshour = "false"
+displayseconds = "false"
+stylefordate = "MM-dd-yyyy"
+id = "inhx"
+componentName = "Date Time"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-770\"]"
+ccid_themeCSSSet = "true"
+[[Elements]]
+Name = ""
+Type = "Ch5 Animation"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+startanimating = "true"
+size = "x-large"
+animationstyle = "ring"
+id = "iaaea"
+componentName = "Animation"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-770\"]"
+ccid_themeCSSSet = "true"
+

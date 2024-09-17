@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-11-27 16:00:24.110264-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-11-27 16:00:24.110232-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "3bae5c44-fc76-479a-bf61-5a48041f3794"
+Name = "equipment-button-p5-laptop"
+SourceUri = "equipment-button-p5-laptop.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

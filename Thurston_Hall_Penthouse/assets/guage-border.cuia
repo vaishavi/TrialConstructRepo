@@ -1,0 +1,20 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.2901.26.0"
+Created = 2023-11-27 20:59:05.209412-05:00
+LastModifiedByAppHost = "1.2901.26.0"
+Modified = 2023-11-27 20:59:05.209331-05:00
+CreatedByProjectApp = "1.2901.26.0"
+LastModifiedByProjectApp = "1.2901.26.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "e0d9f2aa-7a07-45e7-850b-9a947f72c97f"
+Name = "guage-border"
+SourceUri = "guage-border.png"
+AspectRatio = "0.1505016722408027"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

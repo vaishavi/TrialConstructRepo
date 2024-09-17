@@ -1,0 +1,368 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3201.17.0"
+Created = 2024-04-11 13:08:47.963485-04:00
+LastModifiedByAppHost = "1.3201.17.0"
+Modified = 2024-04-11 13:08:47.963478-04:00
+CreatedByProjectApp = "1.3201.17.0"
+LastModifiedByProjectApp = "1.3201.17.0"
+MinimumProjectApp = "1.2600.1"
+
+{Html}
+<ch5-background scale="stretch" refreshrate="600" transitioneffect="ease" transitionduration="1s" assetid="0" id="ipyl" componentname="Ch5 Background 1" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-770&quot;]" backgroundcolor="rgb(28,83,121)">
+              </ch5-background><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="true" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="center" affectedbypreviewstate="True" shape="rounded-rectangle" pageflip="0" size="custom" iconposition="first" previewstate="normal" orientation="horizontal" labelmode="simple" id="ipxm" componentname="Ch5 Button 1" ccid_themecssset="true" devicesvisited="[&quot;TSW-770&quot;]" assetid="60bd81e3-b91c-4e38-a27e-59f50f13a1af" labelinnerhtml="" customvstheme="custom">
+              </ch5-button><div componentname="Html-div 1" id="iaw1" devicesvisited="[&quot;TSW-770&quot;]"></div><div data-simulate-textcontent="<p style=&quot;margin-block-start: 0em!important;text-align: center;&quot;><span style=&quot;color: rgb(255, 255, 255);&quot;>Press Yes to place the system into standby mode</span></p><p style=&quot;margin-block-start: 0em!important;text-align: center;&quot;><span style=&quot;color: rgb(255, 255, 255);&quot;>Press No to back out and continue</span></p>" labelmodeformattedtext="advanced" componentname="Formatted-Text 2" id="ia3m" devicesvisited="[&quot;TSW-770&quot;]"><p style="margin-block-start: 0em!important;text-align: center;"><span style="color: rgb(255, 255, 255);">Press Yes to place the system into standby mode</span></p><p style="margin-block-start: 0em!important;text-align: center;"><span style="color: rgb(255, 255, 255);">Press No to back out and continue</span></p></div><ch5-datetime timeoffsethours="0" horizontalalignment="center" displaytype="time" display24hourformat="false" displayampm="true" displaytwodigitshour="false" displayseconds="false" stylefordate="MM-dd-yyyy" id="impk" componentname="Date Time" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-770&quot;]" ccid_themecssset="true">
+              </ch5-datetime><ch5-text clearlabel="false" labelmodeadvncomponent="advanced" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="<p style=&quot;text-align: center;&quot;><span style=&quot;color: rgb(200, 177, 139);&quot;>Room Name</span></p>" id="ime1j" componentname="Formatted-Text" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-770&quot;]" ccid_themecssset="true">
+              </ch5-text><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="center" affectedbypreviewstate="True" shape="rounded-rectangle" labelinnerhtml="YES" pageflip="0" size="custom" iconposition="first" previewstate="normal" orientation="horizontal" labelmode="simple" id="i87dl" componentname="Button" ccid_themecssset="true" devicesvisited="[&quot;TSW-770&quot;]" assetid="e33dac53-8ea9-4763-bb58-6722bf24ed43" customvstheme="custom">
+              </ch5-button><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="center" affectedbypreviewstate="True" shape="rounded-rectangle" labelinnerhtml="NO" pageflip="0" size="custom" iconposition="first" previewstate="normal" orientation="horizontal" labelmode="simple" id="iec0iuh7ed6dn" componentname="Button_1" ccid_themecssset="true" devicesvisited="[&quot;TSW-770&quot;]" assetid="e33dac53-8ea9-4763-bb58-6722bf24ed43" oldid="i87dl" customvstheme="custom"></ch5-button><ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageflipattributename="pageflip" clearlabel="false" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="center" affectedbypreviewstate="True" shape="rounded-rectangle" labelinnerhtml="<p style=&quot;text-align: center;&quot;><span style=&quot;color: rgb(255, 255, 255);&quot;>Reset<br>Control<br>Program</span></p>" pageflip="0" size="custom" iconposition="first" orientation="horizontal" labelmode="advanced" id="i2hkk" componentname="Button_2" ccid_themecssset="true" devicesvisited="[&quot;TSW-770&quot;]" assetid="5b6fdca6-a515-41b4-b191-916d1b54f9e6" customvstheme="custom" previewstate="normal" selected="false">
+              <ch5-button-mode componentname="mode 0" class="ch5-button-child" ccid_imageicontype="iconclass" modecount="0" type="default" assetid="0" id="ifwhb"><ch5-button-mode-state componentname="normal" class="ch5-button-child" ccid_imageicontype="imageasset" state="normal" type="default" iconurlfilltype="center" id="imu7g" assetid="5b6fdca6-a515-41b4-b191-916d1b54f9e6" devicesvisited="[&quot;TSW-770&quot;]" ccid_themecssset="true" labelmodeadvnbtn="advanced" labelinnerhtml="<p style=&quot;text-align: center;&quot;><span style=&quot;color: rgb(255, 255, 255);&quot;>Reset<br>Control<br>Program</span></p>"></ch5-button-mode-state><ch5-button-mode-state componentname="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" state="pressed" type="default" iconurlfilltype="center" id="intg3" assetid="9156a032-0f66-4ad7-bdb4-0dabeae95727" devicesvisited="[&quot;TSW-770&quot;]" ccid_themecssset="true" labelmodeadvnbtn="advanced" labelinnerhtml="<p style=&quot;text-align: center;&quot;><span style=&quot;color: rgb(255, 255, 255);&quot;>Reset<br>Control<br>Program</span></p>"></ch5-button-mode-state><ch5-button-mode-state componentname="selected" class="ch5-button-child" ccid_imageicontype="imageasset" state="selected" type="default" iconurlfilltype="center" id="i38vm" assetid="9156a032-0f66-4ad7-bdb4-0dabeae95727" devicesvisited="[&quot;TSW-770&quot;]" ccid_themecssset="true" labelmodeadvnbtn="advanced" labelinnerhtml="<p style=&quot;text-align: center;&quot;><span style=&quot;color: rgb(255, 255, 255);&quot;>Reset<br>Control<br>Program</span></p>"></ch5-button-mode-state></ch5-button-mode></ch5-button>
+
+
+
+
+
+
+
+{Css}
+@media (max-width: 99999px) { #i2hkk .ch5-button--size-regular .cb-btn { newRuleWidth: 80px; newRuleHeight: 80px; width: 80px; height: 80px } #iec0iuh7ed6dn .ch5-button--size-regular .cb-btn { newRuleWidth: 100px; newRuleHeight: 100px; width: 100px; height: 100px } #i87dl .ch5-button--size-regular .cb-btn { newRuleWidth: 100px; newRuleHeight: 100px; width: 100px; height: 100px } #ipxm .ch5-button--size-regular .cb-btn { width: 600px; height: 94px } #ipyl { width: 100%; height: 100%; z-index: -91; overflow: hidden; position: absolute; left: 0; top: 0; display: block } #ipxm .ch5-button--default .ch5-button--label { font-family: Roboto; color: #ffffff; font-size: 14px; font-weight: 400; buttonDefaultLabel_font-size: 14px; buttonDefaultLabel_color: #ffffff; buttonDefaultLabel_font-weight: 400 } #ipxm .ch5-button--default { border-style: solid; border-color: #1c5379; color: #ffffff; background-color: #1c5379; border-width: 0; max-height: 100%; max-width: 100%; display: flex; align-items: center } #ipxm .ch5-button-child { width: inherit; height: inherit; top: inherit; left: inherit; position: fixed } #ipxm .ch5-button--default .ch5-button--icon { color: #ffffff; font-size: 14px; custom-font-size: 14px; buttonDefaultIcon_font-size: 14px; buttonDefaultIcon_color: #ffffff } #ipxm .ch5-button--default .cb-checkbox-icon { color: #ffffff; buttonDefaultCheckbox_color: #ffffff } #ipxm .ccid-custom.ch5-button--default .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #ipxm .ch5-button--default.ch5-button--pressed { color: #f0fff0; background-color: #008ae6; border-color: #0091ea } #ipxm .ch5-button--default.ch5-button--pressed .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultPressedLabel_font-size: 14px; buttonDefaultPressedLabel_color: #f0fff0; buttonDefaultPressedLabel_font-weight: 400 } #ipxm .ch5-button--default.ch5-button--pressed .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultPressedIcon_font-size: 14px; buttonDefaultPressedIcon_color: #f0fff0 } #ipxm .ch5-button--default.ch5-button--pressed .cb-checkbox-icon { color: #f0fff0; buttonDefaultPressedCheckbox_color: #f0fff0 } #ipxm .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #ipxm .ch5-button--default.ch5-button--selected { color: #f0fff0; background-color: #0073bf; border-color: #0091ea } #ipxm .ch5-button--default.ch5-button--selected .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultSelectedLabel_font-size: 14px; buttonDefaultSelectedLabel_color: #f0fff0; buttonDefaultSelectedLabel_font-weight: 400 } #ipxm .ch5-button--default.ch5-button--selected .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultSelectedIcon_font-size: 14px; buttonDefaultSelectedIcon_color: #f0fff0 } #ipxm .ch5-button--default.ch5-button--selected .cb-checkbox-icon { color: #f0fff0; buttonDefaultSelectedCheckbox_color: #f0fff0 } #ipxm .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #iaw1 { background-color: #ffffff; border-style: solid; border-width: 0; border-color: #ffffff; width: 1280px; height: 400px; left: 0; top: 200px; position: absolute; display: block; z-index: 176 } #ipxm { pointer-events: all; width: 600px; height: 94px; font-family: Roboto; left: 340px; top: 13px; position: absolute; display: block; border-width: 0; z-index: 177 } #ipxm .ch5-button--vertical .cx-button-checkbox-pos-left { padding-left: 0px } #ipxm .ch5-button--vertical .cx-button-checkbox-pos-right { padding-right: 0px } #ia3m { width: 880px; height: 150px; text-align: center; padding-top: 1rem; font-family: Roboto; font-size: 32px; overflow: hidden; text-underline-offset: 0.3em; line-height: normal; color: black; border-color: black; background-color: #00000000; left: 200px; top: 600px; position: absolute; display: block; custom-font-size: 32px; z-index: 175 } #impk .ch5-datetime { width: 100px; height: 50px; font-family: Roboto; background-color: transparent; font-size: 20px; custom-font-size: 20px; color: #c8b18b } #impk { width: 100px; height: 50px; font-family: Roboto; left: 1175px; top: 50px; position: absolute; display: block; font-weight: 400; z-index: 174 } #ime1j .ch5-text { width: 200px; height: 50px; font-family: Roboto; font-size: 24px; custom-font-size: 24px } #ime1j { width: 200px; height: 50px; font-family: Roboto; left: 975px; top: 50px; position: absolute; display: block; z-index: 173 } #i87dl .ch5-button--default .ch5-button--label { font-family: Roboto; color: #004065; font-size: 22px; font-weight: 700; buttonDefaultLabel_font-size: 22px; buttonDefaultLabel_color: #004065; buttonDefaultLabel_font-weight: 700; custom-font-size: 22px } #i87dl .ch5-button--default { border-style: solid; border-color: #0091ea; color: #ffffff; background-color: #ffffff; border-width: 0; max-height: 100%; max-width: 100%; display: flex; align-items: center } #i87dl .ch5-button-child { width: inherit; height: inherit; top: inherit; left: inherit; position: fixed } #i87dl { pointer-events: all; width: 100px; height: 100px; font-family: Roboto; left: 515px; top: 350px; position: absolute; display: block; border-width: 0; newRuleWidth: 100px; newRuleHeight: 100px; buttonDefaultLabel_color: #004065; buttonDefaultLabel_font-size: 22px; buttonDefaultLabel_font-weight: 700; z-index: 172 } #i87dl .ch5-button--default .ch5-button--icon { color: #ffffff; font-size: 14px; custom-font-size: 14px; buttonDefaultIcon_font-size: 14px; buttonDefaultIcon_color: #ffffff } #i87dl .ch5-button--default .cb-checkbox-icon { color: #ffffff; buttonDefaultCheckbox_color: #ffffff } #i87dl .ccid-custom.ch5-button--default .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #i87dl .ch5-button--default.ch5-button--pressed { color: #f0fff0; background-color: #008ae6; border-color: #0091ea } #i87dl .ch5-button--default.ch5-button--pressed .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultPressedLabel_font-size: 14px; buttonDefaultPressedLabel_color: #f0fff0; buttonDefaultPressedLabel_font-weight: 400 } #i87dl .ch5-button--default.ch5-button--pressed .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultPressedIcon_font-size: 14px; buttonDefaultPressedIcon_color: #f0fff0 } #i87dl .ch5-button--default.ch5-button--pressed .cb-checkbox-icon { color: #f0fff0; buttonDefaultPressedCheckbox_color: #f0fff0 } #i87dl .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #i87dl .ch5-button--default.ch5-button--selected { color: #f0fff0; background-color: #0073bf; border-color: #0091ea } #i87dl .ch5-button--default.ch5-button--selected .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultSelectedLabel_font-size: 14px; buttonDefaultSelectedLabel_color: #f0fff0; buttonDefaultSelectedLabel_font-weight: 400 } #i87dl .ch5-button--default.ch5-button--selected .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultSelectedIcon_font-size: 14px; buttonDefaultSelectedIcon_color: #f0fff0 } #i87dl .ch5-button--default.ch5-button--selected .cb-checkbox-icon { color: #f0fff0; buttonDefaultSelectedCheckbox_color: #f0fff0 } #i87dl .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #i87dl .ch5-button--vertical .cx-button-checkbox-pos-left { padding-left: 0px } #i87dl .ch5-button--vertical .cx-button-checkbox-pos-right { padding-right: 0px } #i87dl-2 .ch5-button-child { width: inherit; height: inherit; top: inherit; left: inherit; position: fixed } #iec0iuh7ed6dn .ch5-button--default { border-style: solid; border-color: #0091ea; color: #ffffff; background-color: #ffffff; border-width: 0; max-height: 100%; max-width: 100%; display: flex; align-items: center } #iec0iuh7ed6dn .ch5-button--default .ch5-button--label { font-family: Roboto; color: #004065; font-size: 22px; font-weight: 700; buttonDefaultLabel_font-size: 22px; buttonDefaultLabel_color: #004065; buttonDefaultLabel_font-weight: 700; custom-font-size: 22px } #iec0iuh7ed6dn { pointer-events: all; width: 100px; height: 100px; font-family: Roboto; left: 665px; top: 350px; position: absolute; display: block; border-width: 0; newRuleWidth: 100px; newRuleHeight: 100px; buttonDefaultLabel_color: #004065; buttonDefaultLabel_font-size: 22px; buttonDefaultLabel_font-weight: 700; z-index: 171 } #iec0iuh7ed6dn .ch5-button--default .ch5-button--icon { color: #ffffff; font-size: 14px; custom-font-size: 14px; buttonDefaultIcon_font-size: 14px; buttonDefaultIcon_color: #ffffff } #iec0iuh7ed6dn .ch5-button--default .cb-checkbox-icon { color: #ffffff; buttonDefaultCheckbox_color: #ffffff } #iec0iuh7ed6dn .ccid-custom.ch5-button--default .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #iec0iuh7ed6dn .ch5-button--default.ch5-button--pressed { color: #f0fff0; background-color: #008ae6; border-color: #0091ea } #iec0iuh7ed6dn .ch5-button--default.ch5-button--pressed .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultPressedLabel_font-size: 14px; buttonDefaultPressedLabel_color: #f0fff0; buttonDefaultPressedLabel_font-weight: 400 } #iec0iuh7ed6dn .ch5-button--default.ch5-button--pressed .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultPressedIcon_font-size: 14px; buttonDefaultPressedIcon_color: #f0fff0 } #iec0iuh7ed6dn .ch5-button--default.ch5-button--pressed .cb-checkbox-icon { color: #f0fff0; buttonDefaultPressedCheckbox_color: #f0fff0 } #iec0iuh7ed6dn .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #iec0iuh7ed6dn .ch5-button--default.ch5-button--selected { color: #f0fff0; background-color: #0073bf; border-color: #0091ea } #iec0iuh7ed6dn .ch5-button--default.ch5-button--selected .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultSelectedLabel_font-size: 14px; buttonDefaultSelectedLabel_color: #f0fff0; buttonDefaultSelectedLabel_font-weight: 400 } #iec0iuh7ed6dn .ch5-button--default.ch5-button--selected .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultSelectedIcon_font-size: 14px; buttonDefaultSelectedIcon_color: #f0fff0 } #iec0iuh7ed6dn .ch5-button--default.ch5-button--selected .cb-checkbox-icon { color: #f0fff0; buttonDefaultSelectedCheckbox_color: #f0fff0 } #iec0iuh7ed6dn .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #iec0iuh7ed6dn .ch5-button--vertical .cx-button-checkbox-pos-left { padding-left: 0px } #iec0iuh7ed6dn .ch5-button--vertical .cx-button-checkbox-pos-right { padding-right: 0px } #i2hkk .ch5-button--default .ch5-button--label { font-family: Roboto; color: #ffffff; font-size: 15px; font-weight: 400; buttonDefaultLabel_font-size: 15px; buttonDefaultLabel_color: #ffffff; buttonDefaultLabel_font-weight: 400; custom-font-size: 15px } #i2hkk .ch5-button--default { border-style: solid; border-color: #0091ea; color: #ffffff; background-color: #1c5379; border-width: 0; max-height: 100%; max-width: 100%; display: flex; align-items: center } #i2hkk .ch5-button-child { pointer-events: all; width: inherit; height: inherit; font-family: Roboto; left: 0; top: 0; position: absolute; display: block; buttonDefaultLabel_font-size: 15px; border-width: inherit; newRuleWidth: 80px; newRuleHeight: 80px; z-index: 0; border-radius: 50%; border-style: inherit } #i2hkk { pointer-events: all; width: 80px; height: 80px; font-family: Roboto; left: 1190px; top: 710px; position: absolute; display: block; buttonDefaultLabel_font-size: 15px; border-width: 0; newRuleWidth: 80px; newRuleHeight: 80px; z-index: 170 } #i2hkk .ch5-button--default .ch5-button--icon { color: #ffffff; font-size: 14px; custom-font-size: 14px; buttonDefaultIcon_font-size: 14px; buttonDefaultIcon_color: #ffffff } #i2hkk .ch5-button--default .cb-checkbox-icon { color: #ffffff; buttonDefaultCheckbox_color: #ffffff } #i2hkk .ccid-custom.ch5-button--default .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #i2hkk .ch5-button--default.ch5-button--pressed { color: #f0fff0; background-color: #1c5379; border-color: #0091ea } #i2hkk .ch5-button--default.ch5-button--pressed .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultPressedLabel_font-size: 14px; buttonDefaultPressedLabel_color: #f0fff0; buttonDefaultPressedLabel_font-weight: 400 } #i2hkk .ch5-button--default.ch5-button--pressed .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultPressedIcon_font-size: 14px; buttonDefaultPressedIcon_color: #f0fff0 } #i2hkk .ch5-button--default.ch5-button--pressed .cb-checkbox-icon { color: #f0fff0; buttonDefaultPressedCheckbox_color: #f0fff0 } #i2hkk .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #i2hkk .ch5-button--default.ch5-button--selected { color: #f0fff0; background-color: #1c5379; border-color: #0091ea } #i2hkk .ch5-button--default.ch5-button--selected .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultSelectedLabel_font-size: 14px; buttonDefaultSelectedLabel_color: #f0fff0; buttonDefaultSelectedLabel_font-weight: 400 } #i2hkk .ch5-button--default.ch5-button--selected .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultSelectedIcon_font-size: 14px; buttonDefaultSelectedIcon_color: #f0fff0 } #i2hkk .ch5-button--default.ch5-button--selected .cb-checkbox-icon { color: #f0fff0; buttonDefaultSelectedCheckbox_color: #f0fff0 } #i2hkk .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #i2hkk .ch5-button--vertical .cx-button-checkbox-pos-left { padding-left: 0px } #i2hkk .ch5-button--vertical .cx-button-checkbox-pos-right { padding-right: 0px } #i2hkk[mode="0"] .ch5-button--default { border-style: solid; border-color: #0091ea; color: #ffffff; background-color: #1c5379; border-width: 0; max-height: 100%; max-width: 100%; display: flex; align-items: center } #i2hkk[mode="0"] .ch5-button--default .ch5-button--label { font-family: Roboto; color: #ffffff; font-size: 15px; font-weight: 400; buttonDefaultLabel_font-size: 15px; buttonDefaultLabel_color: #ffffff; buttonDefaultLabel_font-weight: 400; custom-font-size: 15px } #i2hkk[mode="0"] .ch5-button--default .ch5-button--icon { color: #ffffff; font-size: 14px; custom-font-size: 14px; buttonDefaultIcon_font-size: 14px; buttonDefaultIcon_color: #ffffff } #i2hkk[mode="0"] .ch5-button--default .cb-checkbox-icon { color: #ffffff; buttonDefaultCheckbox_color: #ffffff } #i2hkk[mode="0"] .ccid-custom.ch5-button--default .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #i2hkk[mode="0"][pressed="true"] .ch5-button--default { color: #f0fff0; background-color: #1c5379; border-color: #0091ea } #i2hkk[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed { color: #f0fff0; background-color: #1c5379; border-color: #0091ea } #i2hkk[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultPressedLabel_font-size: 14px; buttonDefaultPressedLabel_color: #f0fff0; buttonDefaultPressedLabel_font-weight: 400 } #i2hkk[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultPressedIcon_font-size: 14px; buttonDefaultPressedIcon_color: #f0fff0 } #i2hkk[mode="0"][pressed="true"] .ch5-button--default.ch5-button--pressed .cb-checkbox-icon { color: #f0fff0; buttonDefaultPressedCheckbox_color: #f0fff0 } #i2hkk[mode="0"][pressed="true"] .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #i2hkk[mode="0"][selected="true"] .ch5-button--default { color: #f0fff0; background-color: #1c5379; border-color: #0091ea } #i2hkk[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected { color: #f0fff0; background-color: #1c5379; border-color: #0091ea } #i2hkk[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected .ch5-button--label { color: #f0fff0; font-size: 14px; font-weight: 400; buttonDefaultSelectedLabel_font-size: 14px; buttonDefaultSelectedLabel_color: #f0fff0; buttonDefaultSelectedLabel_font-weight: 400 } #i2hkk[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected .ch5-button--icon { color: #f0fff0; font-size: 14px; custom-font-size: 14px; buttonDefaultSelectedIcon_font-size: 14px; buttonDefaultSelectedIcon_color: #f0fff0 } #i2hkk[mode="0"][selected="true"] .ch5-button--default.ch5-button--selected .cb-checkbox-icon { color: #f0fff0; buttonDefaultSelectedCheckbox_color: #f0fff0 } #i2hkk[mode="0"][selected="true"] .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img { width: 21px; height: 21px; buttonDefaultImage_width: 21px; buttonDefaultImage_height: 21px } #imu7g { display: block } #intg3 { display: block; background-color: #1c5379 } #i38vm { display: block; background-color: #1c5379 } #ifwhb { display: block } }
+
+{PageAttributes}
+
+[Attributes]
+Name = "ExitSystem"
+PageMode = "absolute"
+Id = "aa526ed5-95de-46c1-966a-de4591bfadb5"
+StartPage = "False"
+VisibilityJoin = "0"
+
+[[Elements]]
+Name = ""
+Type = "Ch5 Background"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+scale = "stretch"
+refreshrate = "600"
+transitioneffect = "ease"
+transitionduration = "1s"
+assetid = "0"
+id = "ipyl"
+componentName = "Ch5 Background 1"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-770\"]"
+backgroundcolor = "rgb(28,83,121)"
+[[Elements]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "true"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "center"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+pageflip = "0"
+size = "custom"
+iconposition = "first"
+previewstate = "normal"
+orientation = "horizontal"
+labelmode = "simple"
+id = "ipxm"
+componentName = "Ch5 Button 1"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-770\"]"
+assetid = "60bd81e3-b91c-4e38-a27e-59f50f13a1af"
+labelinnerhtml = ""
+customvstheme = "custom"
+[[Elements]]
+Name = ""
+Type = "html-div"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+componentName = "Html-div 1"
+id = "iaw1"
+devicesVisited = "[\"TSW-770\"]"
+[[Elements]]
+Name = "Formatted-Text"
+Type = "Ch5FormattedText-emulator"
+Status = ""
+Content = "<p style=\"margin-block-start: 0em!important;text-align: center;\"><span style=\"color: rgb(255, 255, 255);\">Press Yes to place the system into standby mode</span></p><p style=\"margin-block-start: 0em!important;text-align: center;\"><span style=\"color: rgb(255, 255, 255);\">Press No to back out and continue</span></p>"
+
+[Elements.Attributes]
+data-simulate-textcontent = "<p style=\"margin-block-start: 0em!important;text-align: center;\"><span style=\"color: rgb(255, 255, 255);\">Press Yes to place the system into standby mode</span></p><p style=\"margin-block-start: 0em!important;text-align: center;\"><span style=\"color: rgb(255, 255, 255);\">Press No to back out and continue</span></p>"
+labelmodeformattedtext = "advanced"
+componentName = "Formatted-Text 2"
+id = "ia3m"
+devicesVisited = "[\"TSW-770\"]"
+[[Elements]]
+Name = ""
+Type = "Ch5 Date Time"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+timeoffsethours = "0"
+horizontalalignment = "center"
+displaytype = "time"
+display24hourformat = "false"
+displayampm = "true"
+displaytwodigitshour = "false"
+displayseconds = "false"
+stylefordate = "MM-dd-yyyy"
+id = "impk"
+componentName = "Date Time"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-770\"]"
+ccid_themeCSSSet = "true"
+[[Elements]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "advanced"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "<p style=\"text-align: center;\"><span style=\"color: rgb(200, 177, 139);\">Room Name</span></p>"
+id = "ime1j"
+componentName = "Formatted-Text"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-770\"]"
+ccid_themeCSSSet = "true"
+[[Elements]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "center"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+labelinnerhtml = "YES"
+pageflip = "0"
+size = "custom"
+iconposition = "first"
+previewstate = "normal"
+orientation = "horizontal"
+labelmode = "simple"
+id = "i87dl"
+componentName = "Button"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-770\"]"
+assetid = "e33dac53-8ea9-4763-bb58-6722bf24ed43"
+customvstheme = "custom"
+[[Elements]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[Elements.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "center"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+labelinnerhtml = "NO"
+pageflip = "0"
+size = "custom"
+iconposition = "first"
+previewstate = "normal"
+orientation = "horizontal"
+labelmode = "simple"
+id = "iec0iuh7ed6dn"
+componentName = "Button_1"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-770\"]"
+assetid = "e33dac53-8ea9-4763-bb58-6722bf24ed43"
+oldID = "i87dl"
+customvstheme = "custom"
+[[Elements]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "normal"
+ccid_imageIconType = "imageasset"
+state = "normal"
+type = "default"
+iconurlfilltype = "center"
+id = "imu7g"
+assetid = "5b6fdca6-a515-41b4-b191-916d1b54f9e6"
+devicesVisited = "[\"TSW-770\"]"
+ccid_themeCSSSet = "true"
+iconurl = "StaticFiles/97f0cae6-8dee-477f-99a8-8156aa8dafcb/5b6fdca6-a515-41b4-b191-916d1b54f9e6/go0bhfje.png"
+labelmodeadvnbtn = "advanced"
+labelinnerhtml = "<p style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255);\">Reset<br>Control<br>Program</span></p>"
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "pressed"
+ccid_imageIconType = "imageasset"
+state = "pressed"
+type = "default"
+iconurlfilltype = "center"
+id = "intg3"
+assetid = "9156a032-0f66-4ad7-bdb4-0dabeae95727"
+devicesVisited = "[\"TSW-770\"]"
+ccid_themeCSSSet = "true"
+labelmodeadvnbtn = "advanced"
+labelinnerhtml = "<p style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255);\">Reset<br>Control<br>Program</span></p>"
+iconurl = "StaticFiles/97f0cae6-8dee-477f-99a8-8156aa8dafcb/9156a032-0f66-4ad7-bdb4-0dabeae95727/0q31y2bl.png"
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "selected"
+ccid_imageIconType = "imageasset"
+state = "selected"
+type = "default"
+iconurlfilltype = "center"
+id = "i38vm"
+assetid = "9156a032-0f66-4ad7-bdb4-0dabeae95727"
+devicesVisited = "[\"TSW-770\"]"
+ccid_themeCSSSet = "true"
+iconurl = "StaticFiles/97f0cae6-8dee-477f-99a8-8156aa8dafcb/9156a032-0f66-4ad7-bdb4-0dabeae95727/0q31y2bl.png"
+labelmodeadvnbtn = "advanced"
+labelinnerhtml = "<p style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255);\">Reset<br>Control<br>Program</span></p>"
+
+[Elements.Components.Attributes]
+componentName = "mode 0"
+ccid_imageIconType = "iconclass"
+modecount = "0"
+type = "default"
+assetid = "0"
+id = "ifwhb"
+
+[Elements.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "center"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+labelinnerhtml = "<p style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255);\">Reset<br>Control<br>Program</span></p>"
+pageflip = "0"
+size = "custom"
+iconposition = "first"
+orientation = "horizontal"
+labelmode = "advanced"
+id = "i2hkk"
+componentName = "Button_2"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"TSW-770\"]"
+assetid = "5b6fdca6-a515-41b4-b191-916d1b54f9e6"
+customvstheme = "custom"
+previewstate = "normal"
+selected = "false"
+
